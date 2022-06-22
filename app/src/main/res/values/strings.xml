@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PracticeDaggerHilt</string>
+    <string name="cryptocurrency_name">{cryptocurrency.name}</string>
+</resources>
